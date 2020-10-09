@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Problems/Exactly one parameter is positive/out/
+/Problems/Exactly one parameter is positive/out/production/classes/
+/Problems/Knights/out/
+/Problems/Knights/out/production/classes/
+/Problems/The longest sequence/build/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/
+/Problems/Triangle/out/
+/Problems/Triangle/out/production/classes/
+/Problems/Very Big Number/out/
+/Problems/Very Big Number/out/production/classes/
+/Problems/Within a range/out/
+/Problems/Within a range/out/production/classes/
+/Problems/Within both ranges/out/
+/Problems/Within both ranges/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Simple Chatty Bot/task/out/test/classes/

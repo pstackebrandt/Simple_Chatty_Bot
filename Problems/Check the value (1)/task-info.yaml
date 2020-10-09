@@ -1,0 +1,20 @@
+type: code
+custom_name: Check the value
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import java.util.Scanner
+
+    fun main(args: Array<String>) {
+        val scanner = Scanner(System.`in`)
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4532
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4532">JetBrains
+    Academy</a></html>
+  time: Sat, 26 Sep 2020 20:07:58 UTC
+record: -1

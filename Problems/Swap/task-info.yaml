@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // Variables a and b already exist. Write only exchange actions here. Do not declare a and b
+    val c =
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7308
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7308">JetBrains
+    Academy</a></html>
+  time: Tue, 15 Sep 2020 15:57:00 UTC
+record: -1

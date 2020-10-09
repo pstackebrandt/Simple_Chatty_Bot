@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import java.util.Scanner
+
+    // write your function here
+
+    fun main(args: Array<String>) {
+        val scanner = Scanner(System.`in`)
+
+        val a = scanner.nextInt()
+        val b = scanner.nextInt()
+        val c = scanner.nextInt()
+
+        println(sum(a, b, c))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4584
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4584">JetBrains
+    Academy</a></html>
+  time: Thu, 08 Oct 2020 16:30:18 UTC
+record: -1
