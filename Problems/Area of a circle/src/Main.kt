@@ -1,6 +1,8 @@
 import java.util.*
+import kotlin.math.pow
 
 fun main(args: Array<String>) {
     val scanner = Scanner(System.`in`)
-    // write your code here
+    val radius = scanner.nextDouble()
+    println(3.1415 * radius.pow(2))
 }
