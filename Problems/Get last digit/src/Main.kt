@@ -9,8 +9,7 @@ fun main() {
 }
 
 fun getLastDigit(a: Int) =
-        abs(a % 10)
+    abs(a % 10)
 
 fun getLastDigit2(a: Int) =
-        a.toString().last().toString().toInt()
-
+    a.toString().last()
